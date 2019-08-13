@@ -1,0 +1,6 @@
+11:30:42.633 [main] INFO  alpha.demo - object is present
+11:30:42.633 [main] INFO  alpha.demo - object is present
+11:30:42.688 [main] ERROR alpha.demo - object is not present
+11:30:42.688 [main] ERROR alpha.demo - object is not present
+11:30:42.688 [main] FATAL alpha.demo - this is fatal
+11:30:42.688 [main] FATAL alpha.demo - this is fatal

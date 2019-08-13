@@ -1,0 +1,18 @@
+18:29:26.000 [main] DEBUG alpha.demo - I am debugging
+18:29:26.000 [main] DEBUG alpha.demo - I am debugging
+18:29:26.019 [main] INFO  alpha.demo - object is present
+18:29:26.019 [main] INFO  alpha.demo - object is present
+18:29:26.019 [main] ERROR alpha.demo - object is not present
+18:29:26.019 [main] ERROR alpha.demo - object is not present
+18:29:26.019 [main] FATAL alpha.demo - this is fatal
+18:29:26.019 [main] FATAL alpha.demo - this is fatal
+18:29:46.674 [main] DEBUG alpha.demo - I am debugging
+18:29:46.674 [main] DEBUG alpha.demo - I am debugging
+18:29:46.677 [main] INFO  alpha.demo - object is present
+18:29:46.677 [main] INFO  alpha.demo - object is present
+18:29:46.677 [main] ERROR alpha.demo - object is not present
+18:29:46.677 [main] ERROR alpha.demo - object is not present
+18:29:46.677 [main] FATAL alpha.demo - this is fatal
+18:29:46.677 [main] FATAL alpha.demo - this is fatal
+11:30:42.629 [main] DEBUG alpha.demo - I am debugging
+11:30:42.629 [main] DEBUG alpha.demo - I am debugging
